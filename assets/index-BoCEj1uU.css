@@ -1,1 +1,1 @@
-html,body{width:100%;height:100%;overflow:hidden}.game-over{position:absolute;left:50%;transform:translate(-50%,-50%);top:1rem}.score-board{position:absolute;right:1rem;top:.4rem}.my-score{color:#0095dd}.drone-score{color:red}
+html,body{width:100%;height:100%;overflow:hidden}.game-over{position:absolute;left:50%;transform:translate(-50%,-50%);top:1rem}.win{position:absolute;left:50%;transform:translate(-50%,-50%);top:1rem;color:#0095dd}.score-board{position:absolute;right:1rem;top:.4rem}.my-score{color:#0095dd}.drone-score{color:red}
